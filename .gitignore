@@ -1,0 +1,8 @@
+# Package and upload release
+3rdParty.zip
+
+# Visual Studio Code
+.vscode/
+
+# Development - publish log
+*.log
